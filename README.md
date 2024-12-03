@@ -2,7 +2,7 @@
 
 # qb-spawn
 - Spawn Selector for QB-Core Framework :eagle:
-- Yaptığım multicaracter scriptine uyumlu bir spawn selector.
+- [Yaptığım multicaracter scriptine uyumlu bir spawn selector](https://github.com/SezerGuvener/arslan-multicharacter).
 
 # License
 
