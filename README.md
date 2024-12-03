@@ -1,8 +1,8 @@
 # QBCore Spawn Selector CSS Edit By Qaisenix
 
 # qb-spawn
-Spawn Selector for QB-Core Framework :eagle:
-Yaptığım multicaracter scriptine uyumlu bir spawn selector.
+- Spawn Selector for QB-Core Framework :eagle:
+- Yaptığım multicaracter scriptine uyumlu bir spawn selector.
 
 # License
 
@@ -30,7 +30,7 @@ Yaptığım multicaracter scriptine uyumlu bir spawn selector.
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - For house garages
 
 ## Video
-![Priview]()
+[Priview](https://streamable.com/jevw3a)
 
 ## Features
 - Ability to select spawn after selecting the character
